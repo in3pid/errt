@@ -1,4 +1,3 @@
-=== errt
 Embeds stack traces to errors and simplifies debugging code. Eg.:
 ```
 func (s *Service) Method(arg int) (foo *Foo, err error) {
