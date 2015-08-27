@@ -14,7 +14,6 @@ func (s *Service) Method(arg int) (foo *Foo, err error) {
 	}
 	// more errors to check...
 }
-}
 ```
 Error output:
 ```
